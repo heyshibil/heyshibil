@@ -52,5 +52,5 @@ A fully functional online store dedicated to premium audio products. Built to re
 <br><br>
 
 <div align="center">
-  <p><i>If something here caught your eye - or you just want to talk tech and architecture - feel free to reach out.</i></p>
+  <p><i>If something here caught your eye - or you just want to talk tech and architecture - feel free to reach out. 😉</i></p>
 </div>
