@@ -16,31 +16,26 @@
 
 ## 🛠️ The Toolbox
 
-
+<br>
 
 **Languages & Frontend**  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux/Zustand](https://img.shields.io/badge/State_Management-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+`TypeScript` &nbsp;•&nbsp; `React` &nbsp;•&nbsp; `Redux/Zustand` &nbsp;•&nbsp; `Tailwind CSS`
 
 <br>
 
 **Backend & Architecture**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+`Node.js` &nbsp;•&nbsp; `MongoDB` &nbsp;•&nbsp; `Redis`
 
 <br>
 
 **Infrastructure & Tooling**  
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
-![Amazon ECR](https://img.shields.io/badge/Amazon_ECR-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF4081?style=flat-square&logo=nodedotjs&logoColor=white)
+`AWS Lambda` &nbsp;•&nbsp; `Amazon ECR` &nbsp;•&nbsp; `BullMQ`
 
 <br><br>
 
 ## 🚀 Things I've Built
+
+<br>
 
 ### ASCEND : A skill tracker that thinks
 Imagine your skills have an expiry date. Ascend tracks how long it's been since you last used a skill and actively categorizes your career liquidity (tracking if you are **At capacity**, a **Market fit**, or at **High Risk** of getting rusty). 
