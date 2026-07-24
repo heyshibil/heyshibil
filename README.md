@@ -24,12 +24,12 @@
 <br>
 
 **Backend & Architecture**  
-`Node.js` &nbsp;•&nbsp; `MongoDB` &nbsp;•&nbsp; `Redis`
+`Node.js` &nbsp;•&nbsp; `Express` &nbsp;•&nbsp;  `MongoDB` &nbsp;•&nbsp; `PostgreSQL` &nbsp;•&nbsp; `Redis`
 
 <br>
 
 **Infrastructure & Tooling**  
-`AWS Lambda` &nbsp;•&nbsp; `Amazon ECR` &nbsp;•&nbsp; `BullMQ`
+`AWS` &nbsp;•&nbsp; `BullMQ` &nbsp;•&nbsp; `Docker` &nbsp;•&nbsp; `CI/CD` &nbsp;•&nbsp; `Jest` &nbsp;•&nbsp; `SuperTest`
 
 <br><br>
 
