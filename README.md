@@ -1,56 +1,123 @@
 <div align="center">
-  <h1>Hey, I'm Shibil 👋</h1>
-  <h3>Full-Stack JavaScript Developer</h3>
-  <p>" I build web apps that actually work, Focusing on clean systems that don't fall apart under pressure "</p>
-  
-  <br>
 
-  <p align="center">
-    <a href="mailto:shibzzmohd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/shibil-mohammed0770"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://www.instagram.com/heyshibil"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  </p>
+# Hey, I'm Shibil 👋
+
+### Full-Stack JavaScript Developer
+
+I build web applications that actually work         
+with a focus on clean backend systems, scalable APIs and practical products.
+
+  <a href="mailto:shibzzmohd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shibil-mohammed0770">
+    <img src="https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
-<br><br>
+---
 
-## 🧰 The Toolbox
+## 🛠️ Tech Stack
 
-<br>
+### Frontend
 
-**Languages & Frontend**  
-`TypeScript` &nbsp;•&nbsp; `React` &nbsp;•&nbsp; `Redux/Zustand` &nbsp;•&nbsp; `Tailwind CSS`
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</p>
 
-<br>
+### Backend & Databases
 
-**Backend & Architecture**  
-`Node.js` &nbsp;•&nbsp; `Express` &nbsp;•&nbsp;  `MongoDB` &nbsp;•&nbsp; `PostgreSQL` &nbsp;•&nbsp; `Redis`
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
 
-<br>
+### Cloud, DevOps & Testing
 
-**Infrastructure & Tooling**  
-`AWS` &nbsp;•&nbsp; `BullMQ` &nbsp;•&nbsp; `Docker` &nbsp;•&nbsp; `CI/CD` &nbsp;•&nbsp; `Jest` &nbsp;•&nbsp; `SuperTest`
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-E53935?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/SuperTest-000000?style=flat-square" />
+</p>
 
-<br><br>
+---
 
-## 🚀 Things I've Built
+## 🚀 Featured Projects
 
-<br>
+### 🧠 ASCEND
 
-### ASCEND : A skill tracker that thinks
-Imagine your skills have an expiry date. Ascend tracks how long it's been since you last used a skill and actively categorizes your career liquidity (tracking if you are **At capacity**, a **Market fit**, or at **High Risk** of getting rusty). 
-* **The Tech:** Built on the MERN stack with AWS Lambda and Amazon ECR to handle containerized code execution for a live in-browser editor. 
-* **The Impact:** Utilizes BullMQ as a background job engine to handle concurrent requests and AI feedback at scale.
+**A skill intelligence platform that thinks beyond simple skill tracking.**
 
-<br>
+Ascend helps developers understand skill decay, career readiness and how their skills align with the job market.
 
-### DECIBEL : A production-grade e-commerce store
-A fully functional online store dedicated to premium audio products. Built to real-world production standards rather than a simple tutorial clone.
-* **The Tech:** Engineered with RESTful APIs, robust JWT authentication, and a comprehensive admin dashboard.
-* **The Impact:** Features secure payments, email verification, and security practices baked in from day one.
+**What I built**
+- Skill tracking & skill decay system
+- Career liquidity / risk classification
+- AI-powered skill intelligence
+- Background processing with BullMQ
+- Containerized code execution using AWS Lambda + ECR
+- Redis caching and job queues
+- Role-based access control
 
-<br><br>
+**Tech:** React · TypeScript · Node.js · Express · MongoDB · Redis · AWS · Docker
 
-<div align="center">
-  <p><i>If something here caught your eye - or you just want to talk tech and architecture - feel free to reach out. 😉</i></p>
-</div>
+<a href="YOUR_ASCEND_LIVE_DEMO">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-000000?style=for-the-badge" />
+</a>
+<a href="YOUR_ASCEND_GITHUB_REPO">
+  <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+### 🎧 DECIBEL
+
+**A production-oriented e-commerce platform for audio products.**
+
+Built as a real-world commerce application rather than a basic CRUD project.
+
+**What I built**
+- JWT authentication & authorization
+- Email verification and password recovery
+- Product, cart and wishlist systems
+- Razorpay payment integration
+- Admin dashboard
+- Secure REST APIs
+- Cloudinary image management
+
+**Tech:** React · TypeScript · Node.js · Express · MongoDB · Redis
+
+<a href="YOUR_DECIBEL_LIVE_DEMO">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-000000?style=for-the-badge" />
+</a>
+<a href="YOUR_DECIBEL_GITHUB_REPO">
+  <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+## 📊 What I Care About
+
+```text
+Backend Architecture     → APIs that are simple and maintainable
+System Design             → Systems that survive real usage
+Performance               → Caching, queues & efficient queries
+Reliability               → Testing, monitoring & failure handling
+Product Thinking          → Building things people actually need
+```
+
+---
+
+<div align="center"> <p><i>If something here caught your eye - or you just want to talk tech and architecture - feel free to reach out. 😉</i></p> </div>
