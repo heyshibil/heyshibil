@@ -81,10 +81,10 @@ Ascend helps developers understand skill decay, career readiness and how their s
 
 <br/>
 
-<a href="YOUR_ASCEND_LIVE_DEMO">
+<a href="https://ascend-skill-manager-vercel.vercel.app">
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-000000?style=for-the-badge" />
 </a>
-<a href="YOUR_ASCEND_GITHUB_REPO">
+<a href="https://github.com/heyshibil/ASCEND-SKILL-MANAGER">
   <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -110,10 +110,10 @@ Built as a real-world commerce application rather than a basic CRUD project.
 
 <br/>
 
-<a href="YOUR_DECIBEL_LIVE_DEMO">
+<a href="https://decibel-ecommerce-frontend.vercel.app">
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-000000?style=for-the-badge" />
 </a>
-<a href="YOUR_DECIBEL_GITHUB_REPO">
+<a href="https://github.com/heyshibil/DECIBEL-MERN-Ecommerce">
   <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
