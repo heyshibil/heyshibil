@@ -4,22 +4,25 @@
 
 ### Full-Stack JavaScript Developer
 
-I build web applications that actually work         
-with a focus on clean backend systems, scalable APIs and practical products.
+I build web applications that actually work with a focus on clean backend systems, scalable APIs and practical products.
 
-  <a href="mailto:shibzzmohd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shibil-mohammed0770">
-    <img src="https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+<a href="mailto:shibzzmohd@gmail.com">
+  <img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/shibil-mohammed0770">
+  <img src="https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
----
+<br/>
+<br/>
 
 ## 🛠️ Tech Stack
+
+<br/>
 
 ### Frontend
 
@@ -52,9 +55,12 @@ with a focus on clean backend systems, scalable APIs and practical products.
   <img src="https://img.shields.io/badge/SuperTest-000000?style=flat-square" />
 </p>
 
----
+<br/>
+<br/>
 
 ## 🚀 Featured Projects
+
+<br/>
 
 ### 🧠 ASCEND
 
@@ -73,6 +79,8 @@ Ascend helps developers understand skill decay, career readiness and how their s
 
 **Tech:** React · TypeScript · Node.js · Express · MongoDB · Redis · AWS · Docker
 
+<br/>
+
 <a href="YOUR_ASCEND_LIVE_DEMO">
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-000000?style=for-the-badge" />
 </a>
@@ -80,7 +88,8 @@ Ascend helps developers understand skill decay, career readiness and how their s
   <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
----
+<br/>
+<br/>
 
 ### 🎧 DECIBEL
 
@@ -99,6 +108,8 @@ Built as a real-world commerce application rather than a basic CRUD project.
 
 **Tech:** React · TypeScript · Node.js · Express · MongoDB · Redis
 
+<br/>
+
 <a href="YOUR_DECIBEL_LIVE_DEMO">
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-000000?style=for-the-badge" />
 </a>
@@ -106,18 +117,19 @@ Built as a real-world commerce application rather than a basic CRUD project.
   <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
----
+<br/>
+<br/>
 
 ## 📊 What I Care About
 
+<br/>
+
 ```text
 Backend Architecture     → APIs that are simple and maintainable
-System Design             → Systems that survive real usage
-Performance               → Caching, queues & efficient queries
-Reliability               → Testing, monitoring & failure handling
-Product Thinking          → Building things people actually need
+System Design            → Systems that survive real usage
+Performance              → Caching, queues & efficient queries
+Reliability              → Testing, monitoring & failure handling
+Product Thinking         → Building things people actually need
 ```
-
----
 
 <div align="center"> <p><i>If something here caught your eye - or you just want to talk tech and architecture - feel free to reach out. 😉</i></p> </div>
