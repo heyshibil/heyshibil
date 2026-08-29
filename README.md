@@ -73,11 +73,12 @@ Ascend helps developers understand skill decay, career readiness and how their s
 - Career liquidity / risk classification
 - AI-powered skill intelligence
 - Background processing with BullMQ
+- Dual-database architecture: MongoDB for flexible user data, PostgreSQL/Prisma for the relational Questions module
 - Containerized code execution using AWS Lambda + ECR
 - Redis caching and job queues
 - Role-based access control
 
-**Tech:** React · TypeScript · Node.js · Express · MongoDB · Redis · AWS · Docker
+**Tech:** React · TypeScript · Node.js · Express · MongoDB · PostgreSQL · Redis · AWS · Docker
 
 <br/>
 
