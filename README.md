@@ -2,7 +2,7 @@
 
 # Hey, I'm Shibil 👋
 
-### Full-Stack Developer
+### Backend Engineer
 
 I build web applications that actually work with a focus on clean backend systems, scalable APIs and practical products.
 
